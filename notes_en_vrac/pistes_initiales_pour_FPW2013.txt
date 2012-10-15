@@ -1,0 +1,12 @@
+(Parce qu'il faut bien commencer par quelque chose)
+
+À propos de documentation sur l'organisation de conférences:
+https://github.com/barbie/perl-jam
+
+Pour commencer, en attendant une doc plus formelle, il y a déjà ça issus
+des docs de FPW2012 :
+- Pour le site web avec Act : https://github.com/eiro/jp12orga/blob/master/how_to_site_web.md
+- Pour un retro planning : https://github.com/eiro/jp12orga/blob/982814a4e77ee6bb3abf746fbaefe9dd006f3966/retro_planning.md
+- Le dernier planning en date et les post mortem "bruts" sont dans :
+https://github.com/eiro/jp12orga/tree/master/organisation
+
