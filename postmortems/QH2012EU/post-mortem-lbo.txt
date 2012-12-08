@@ -1,0 +1,14 @@
+0. communicate communicate communicate
+1. write down an check list, stick to it
+2. stay consistent with the web site (index.html says "social on Saturday", wiki said "on Friday")
+3. enforce registration for anything that need to be booked
+   (don't overcommit)
+   communicate the deadline for registration
+   communicate one week before the deadline
+   communicate 2 days and the day before the deadline
+4. using the perl mailing is mandatory
+5. using perl mailing lists is NOT ENOUGH
+   use twitter, FB, blogs...
+6. Plan social events more seriously
+7. Label for ppl!
+
