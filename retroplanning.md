@@ -74,7 +74,7 @@ Quelques suppositions :
 # J-2 mois
 
  * contacter Josette (O'Reilly) pour voir comment les livres vont arriver à Strasbourg
- *  ATENTION : le plus tôt c'est le mieux, elle est très demandée.
+ *  ATTENTION : le plus tôt c'est le mieux, elle est très demandée.
  *  Elle propose des livres O'Reilly (en anglais donc) à 40 % de réduc, elle est cool
  *  Prévoir de faire livrer les caisses de livres sur place et prévoir 3-4 mètres de tables.
 
@@ -116,7 +116,7 @@ Quelques suppositions :
  * avoir une petite équipe
  * décider des outils (de comm, de to-do list)
  * décider de réunions régulières (IRL/IRC/..., avec qui...)
- * avoir le dite de test pour se faire la main, affiner le look...
+ * avoir le site de test pour se faire la main, affiner le look...
 
 
 # Poubelle
