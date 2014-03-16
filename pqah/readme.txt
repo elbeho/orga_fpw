@@ -84,3 +84,11 @@
 
 
 
+- In the opening talk, don't forget to talk about commodities (kitchen area,
+  toilets...)
+
+- ATTENTION to access to the venue on Sunday, bank holidays... if any
+
+
+
+
