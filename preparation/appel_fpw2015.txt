@@ -1,0 +1,87 @@
+Bonjour,
+
+2014 touche à sa fin.
+Il serait temps de se pencher sur la prochaine conférence "Journées Perl".
+On cherche des volontaires pour l'organiser.
+
+Qu'est-ce que ça veut dire "organiser" les Journées Perl 2015 ?
+
+Un lieu :
+
+Pour organiser la conférence, il faut au minimum trouver un lieu et des dates.
+Certaines orgnisations permettent à des associations d'organiser gratuitement
+des événements. C'est le cas du Carrefour Numérique² à Paris, de certaines
+universités ou écoles, et probablement d'autres lieux dont je n'ai pas idée.
+
+Traditionellement, les Journées Perl sont organisées sur 2 jours, un vendredi
+et un samedi, en juin. Ce n'est pas une contrainte (il y a eu 2 éditions qui
+ont eu lieu en novembre), c'est juste un constat de ce qui a eu lieu.
+Les organisateurs ont liberté de choisir en fonction des contraintes du lieu
+et d'éventuels conflits avec d'autres événments.
+
+
+Un site web :
+
+Act est un outil de gestion de conférence écrit en Perl, qui a servi pour
+150+ conférences depuis 10 ans.
+Il permet de gérer les inscriptions, leurs paiements éventuels, les 
+présentations (titre, conférencier, durée, résumé, heure de passage).
+Il intègre un wiki, un système de de news.
+Il faut "juste" quelqu'un pour faire le look du site, et mettre les 
+quelques informations essentielles (où, quand, combien ça coûte) et
+les informations un peu statiques que vous voulez y voir apparaître
+(comment s'y rendre, où dormir, où manger, le thème de la conférence...)
+Ce site se met à jour par l'intermédiaire d'un dépôt Subversion (option
+par défaut) ou depuis un dépôt sur Github.
+
+
+Un budget :
+
+Les frais sont pris en charge par l'association (soit directement, soit
+en remboursant, soit en avançant de l'argent).
+Ses ressources ne sont pas illimitées.
+
+Traditionnellement, l'accès à la conférence est gratuite si le site
+est gratuit, et payant si on doit payer pour le lieu.
+Mais ce n'est pas une obligation.
+
+Comme vous le savez peut-être, l'association n'a pas de revenus réguliers
+(pas de cotisation) et dépend du sponsoring et des dons.
+Avoir des sponsors permet plus de marge de manoeuvre dans les dépenses.
+
+Les frais sont en général : le lieu, à boire et à manger pendant les
+pause, l'achat de T-shirts et de goodies "publicataires".
+
+Les recettes sont : les sponsors, la vente des T-shirts ou des billets, 
+parfois des dons.
+
+Les organisateurs sont maîtres du budget, d'autant plus s'ils ont
+les ressources pour couvrir les dépenses qu'ils souhaitent engager.
+Sinon, on en discute ensemble du montant et de la façon de l'utiliser.
+Ils peuvent en particulier décider de participer aux frais de certains
+ou de tous les conférenciers, d'organiser une soirée au restaurant plus
+ou moins prise en charge dans le budget...
+
+
+Conférenciers et public :
+
+Pour avoir du monde, aussi bien des conférenciers que du public, la
+recette est connue dans les grandes lignes (à défaut d'avoir été suivie).
+Il faut CO - MMU - NI - QUER !
+Partout, beaucoup, tôt, tard, pendant.
+L'association dispose de mailing lists, de comptes Twitter, d'une page
+Facebook, d'un Typepad...
+En particulier, en 2014 la communication été inexistante, ou presque.
+J'en assume la responsabilité. Ne suivez pas mon exemple.
+
+
+Taille de l'équipe :
+
+1 personne : ce n'est pas assez, soyez 2 au mini-minimum.
+Plus (+) de monde permet de répartir en plein de petites tâches
+qui laissent de la place pour vivre en dehors de la préparation de
+l'événement, ou pour reprendre des forces en se mettant un peu en retrait.
+La contrepartie est que cela demande une meilleure synchronisation.
+
+
+
