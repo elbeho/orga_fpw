@@ -9,15 +9,24 @@ Qu'est-ce que ça veut dire "organiser" les Journées Perl 2015 ?
 Un lieu :
 
 Pour organiser la conférence, il faut au minimum trouver un lieu et des dates.
-Certaines orgnisations permettent à des associations d'organiser gratuitement
+Certaines organisations permettent à des associations d'organiser gratuitement
 des événements. C'est le cas du Carrefour Numérique² à Paris, de certaines
 universités ou écoles, et probablement d'autres lieux dont je n'ai pas idée.
+
+Une date :
 
 Traditionellement, les Journées Perl sont organisées sur 2 jours, un vendredi
 et un samedi, en juin. Ce n'est pas une contrainte (il y a eu 2 éditions qui
 ont eu lieu en novembre), c'est juste un constat de ce qui a eu lieu.
 Les organisateurs ont liberté de choisir en fonction des contraintes du lieu
-et d'éventuels conflits avec d'autres événments.
+et d'éventuels conflits avec d'autres événements, tant locaux (install-parties
+par exemple), qu'internationaux (YAPC::Europe, éventuellement les autres
+YAPC).
+
+Lors d'une AG récente, il a été décidé d'organiser l'AG en même temps que
+les Journées Perl si celles-ci avaient lieu au 1er semestre de l'année.
+Que cela ne soit pas un frein pour choisir une date. Si l'AG ne peut pas
+se tenir pendant les Journées Perl, le CA organisera l'AG plus tôt.
 
 
 Un site web :
@@ -41,8 +50,8 @@ Les frais sont pris en charge par l'association (soit directement, soit
 en remboursant, soit en avançant de l'argent).
 Ses ressources ne sont pas illimitées.
 
-Traditionnellement, l'accès à la conférence est gratuite si le site
-est gratuit, et payant si on doit payer pour le lieu.
+Traditionnellement, l'accès à la conférence est gratuit si le site est 
+gratuit, et payant si on doit payer pour le lieu.
 Mais ce n'est pas une obligation.
 
 Comme vous le savez peut-être, l'association n'a pas de revenus réguliers
@@ -50,7 +59,7 @@ Comme vous le savez peut-être, l'association n'a pas de revenus réguliers
 Avoir des sponsors permet plus de marge de manoeuvre dans les dépenses.
 
 Les frais sont en général : le lieu, à boire et à manger pendant les
-pause, l'achat de T-shirts et de goodies "publicataires".
+pause, l'achat de T-shirts et de goodies "publicitaires".
 
 Les recettes sont : les sponsors, la vente des T-shirts ou des billets, 
 parfois des dons.
